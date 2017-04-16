@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dashboard>
+  <Title Text="Dashboard" />
+  <Items>
+    <TextBox Name="textBoxDashboardItem1" Caption="Text Box 1" />
+  </Items>
+  <LayoutTree>
+    <LayoutGroup Orientation="Vertical">
+      <LayoutItem DashboardItem="textBoxDashboardItem1" />
+    </LayoutGroup>
+  </LayoutTree>
+</Dashboard>
